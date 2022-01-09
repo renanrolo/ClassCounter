@@ -1,6 +1,6 @@
 ﻿namespace ClassCounter.Models
 {
-    public class Pokemon : Counter.Counter
+    public class Ability : Counter.Counter
     {
         public string Name { get; set; }
     }
